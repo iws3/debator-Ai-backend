@@ -1,0 +1,204 @@
+
+--- Generating text ---
+CWD: C:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\debator\backend
+Key present: True
+Model: gemini-2.5-flash
+Response received: 163 chars
+
+--- Generating text ---
+CWD: C:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\debator\backend
+Key present: True
+Model: gemini-2.5-flash
+Response received: 247 chars
+
+--- Generating text ---
+CWD: C:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\debator\backend
+Key present: True
+Model: gemini-2.5-flash
+Response received: 188 chars
+
+--- Generating text ---
+CWD: C:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\debator\backend
+Key present: True
+Model: gemini-2.5-flash
+Response received: 267 chars
+
+--- Generating text ---
+CWD: C:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\debator\backend
+Key present: True
+Model: gemini-2.5-flash
+Response received: 161 chars
+
+--- Generating text ---
+CWD: C:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\debator\backend
+Key present: True
+Model: gemini-2.5-flash
+Response received: 175 chars
+
+--- Generating text ---
+CWD: C:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\debator\backend
+Key present: True
+Model: gemini-2.5-flash
+Response received: 122 chars
+
+--- Generating text ---
+CWD: C:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\debator\backend
+Key present: True
+Model: gemini-2.5-flash
+Response received: 110 chars
+
+--- Generating text ---
+CWD: C:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\debator\backend
+Key present: True
+Model: gemini-2.5-flash
+Response received: 187 chars
+
+--- Generating text ---
+CWD: C:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\debator\backend
+Key present: True
+Model: gemini-2.5-flash
+Response received: 199 chars
+
+--- Generating text ---
+CWD: C:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\debator\backend
+Key present: True
+Model: gemini-2.5-flash
+Response received: 266 chars
+
+--- Generating text ---
+CWD: C:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\debator\backend
+Key present: True
+Model: gemini-2.5-flash
+Response received: 157 chars
+
+--- Generating text ---
+CWD: C:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\debator\backend
+Key present: True
+Model: gemini-2.5-flash
+Response received: 147 chars
+
+--- Generating text ---
+CWD: C:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\debator\backend
+Key present: True
+Model: gemini-2.5-flash
+Response received: 168 chars
+
+--- Generating text ---
+CWD: C:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\debator\backend
+Key present: True
+Model: gemini-2.5-flash
+Response received: 10 chars
+
+--- Generating text ---
+CWD: C:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\debator\backend
+Key present: True
+Model: gemini-2.5-flash
+Response received: 10 chars
+
+--- Generating text ---
+CWD: C:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\debator\backend
+Key present: True
+Model: gemini-2.5-flash
+Response received: 10 chars
+
+--- Generating text ---
+CWD: C:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\debator\backend
+Key present: True
+Model: gemini-2.5-flash
+Response received: 218 chars
+
+--- Generating text ---
+CWD: C:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\debator\backend
+Key present: True
+Model: gemini-2.5-flash
+Response received: 157 chars
+
+--- Generating text ---
+CWD: C:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\debator\backend
+Key present: True
+Model: gemini-2.5-flash
+Response received: 181 chars
+
+--- Generating text ---
+CWD: C:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\debator\backend
+Key present: True
+Model: gemini-2.5-flash
+Response received: 157 chars
+
+--- Generating text ---
+CWD: C:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\debator\backend
+Key present: True
+Model: gemini-2.5-flash
+Response received: 241 chars
+
+--- Generating text ---
+CWD: C:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\debator\backend
+Key present: True
+Model: gemini-2.5-flash
+Response received: 140 chars
+
+--- Generating text ---
+CWD: C:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\debator\backend
+Key present: True
+Model: gemini-2.5-flash
+Response received: 235 chars
+
+--- Generating text ---
+CWD: C:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\debator\backend
+Key present: True
+Model: gemini-2.5-flash
+Response received: 133 chars
+
+--- Generating text ---
+CWD: C:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\debator\backend
+Key present: True
+Model: gemini-2.5-flash
+Response received: 15 chars
+
+--- Generating text ---
+CWD: C:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\debator\backend
+Key present: True
+Model: gemini-2.5-flash
+Response received: 168 chars
+
+--- Generating text ---
+CWD: C:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\debator\backend
+Key present: True
+Model: gemini-2.5-flash
+Response received: 124 chars
+
+--- Generating text ---
+CWD: C:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\debator\backend
+Key present: True
+Model: gemini-2.5-flash
+Response received: 226 chars
+
+--- Generating text ---
+CWD: C:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\debator\backend
+Key present: True
+Model: gemini-2.5-flash
+Response received: 194 chars
+
+--- Generating text ---
+CWD: C:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\debator\backend
+Key present: True
+Model: gemini-2.5-flash
+Response received: 153 chars
+
+--- Generating text ---
+CWD: C:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\debator\backend
+Key present: True
+Model: gemini-2.5-flash
+Response received: 100 chars
+
+--- Generating text ---
+CWD: C:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\debator\backend
+Key present: True
+Model: gemini-2.5-flash
+Response received: 140 chars
+
+--- Generating text ---
+CWD: C:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\debator\backend
+Key present: True
+Model: gemini-2.5-flash
+Response received: 157 chars
