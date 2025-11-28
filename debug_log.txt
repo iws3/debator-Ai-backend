@@ -602,3 +602,43 @@ Prompt length: 238 chars
 Model: gemini-2.0-flash-exp
 Prompt length: 304 chars
 ✅ Response received: 24 chars
+
+==================================================
+[2025-11-27 06:00:54] Generating text
+Model: gemini-2.0-flash-exp
+Prompt length: 245 chars
+✅ Response received: 24 chars
+
+==================================================
+[2025-11-27 06:01:39] Generating text
+Model: gemini-2.0-flash-exp
+Prompt length: 293 chars
+✅ Response received: 24 chars
+
+==================================================
+[2025-11-28 07:39:56] Generating text
+Model: gemini-2.0-flash-exp
+Prompt: You are elon musk in a debate against jeff bezos.
+The topic is: Who is better between elon musk and ...
+✅ Response received: 195 chars
+Response: Oya Bezos, look my face well well! You dey send tourist go space for few minutes? I dey build self-sustaining colony on Mars, while your bald head dey fly for small rocket! Who better? Na me nau!
+
+==================================================
+[2025-11-28 07:40:23] Generating text
+Model: gemini-2.0-flash-exp
+Prompt: You are elon musk debating against jeff bezos.
+
+Recent conversation:
+elon musk: Oya Bezos, look my f...
+✅ Response received: 215 chars
+Response: Hello ke? Oga, you just dey greet! While I dey build future for humanity, you dey just dey wave hand from inside your oversized toy rocket. Talk is cheap, show me your own Mars colony, *if e fit better pass my own!*
+
+==================================================
+[2025-11-28 07:42:00] Generating text
+Model: gemini-2.0-flash-exp
+Prompt: You are elon musk debating against jeff bezos.
+
+Recent conversation:
+elon musk: Oya Bezos, look my f...
+✅ Response received: 199 chars
+Response: Oga Bezos, you dey form big boy with Amazon? I get Tesla wey dey change the world, SpaceX wey dey carry man go space, and Starlink wey dey give internet to villages wey your Amazon no fit deliver to!
