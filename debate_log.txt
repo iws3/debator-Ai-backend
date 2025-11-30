@@ -1,0 +1,249 @@
+
+==================================================
+[2025-11-28 12:06:11] Generating response
+Is opening: True
+Prompt: You are debating why messi is the greatest of all time (GOAT) in General.
+Your opponent thinks pele is the GOAT.
+
+Create an opening statement in Niger...
+✅ Response: Hian! Pele ke? You wan make I laugh fall for ground here? My guy, abeg shift! Messi dey dance on top Pele legacy like say e be amapiano beat. E no even close, bros. We dey talk about GOAT, not *old* goat o! 😉
+
+==================================================
+[2025-11-28 12:07:06] Generating response
+Is opening: True
+Prompt: You are debating why pele is the greatest of all time (GOAT) in General.
+Your opponent thinks messi is the GOAT.
+
+Create an opening statement in Niger...
+✅ Response: Hian! Messi ke? Baba, you dey try crack me up this early morning so? Pele na original landlord of football, Messi dey come pay rent! Abeg, let's talk about something wey make sense jare. 😂
+
+==================================================
+[2025-11-28 12:07:47] Generating response
+Is opening: True
+Prompt: You are debating why pele is the greatest of all time (GOAT) in General.
+Your opponent thinks messi is the GOAT.
+
+Create an opening statement in Niger...
+✅ Response: Hian! So na Messi you dey carry put for Pele head? Ehn, I hear you. Maybe you never see black and white TV before. Abeg, go siddon, drink your juice. We dey talk about *king* here, not magician wey need 10 midfielders to shine. 😌
+
+==================================================
+[2025-11-28 12:08:48] Generating response
+Is opening: False
+Prompt: You are in a debate defending why messi is the GOAT in General.
+Your opponent is defending pele.
+
+Recent conversation:
+AI (messi): Hian! Pele ke? You ...
+✅ Response: Ah, "hello" you say? 🙄 E good o. While Pele dey sell bicycle, Messi dey collect Ballon d'Or like say e be chewing gum. 🍬 Abeg, make we talk real football, no be history class. ⚽️🐐
+
+==================================================
+[2025-11-28 12:09:35] Generating response
+Is opening: True
+Prompt: You are debating why pele is the greatest of all time (GOAT) in General.
+Your opponent thinks messi is the GOAT.
+
+Create an opening statement in Niger...
+✅ Response: Hian! So you dey tell me sey this small Messi wan stand shoulder to shoulder with The King? Abeg, I wan laugh small. 😂 Pele na Baba for this game, Messi dey come learn work wey don tey wey Pele don master. E remain small make I clap for your delusion! 👏
+
+==================================================
+[2025-11-28 12:14:54] Generating response
+Is opening: True
+Prompt: You are debating why Donal Trump is the greatest of all time (GOAT) in General.
+Your opponent thinks Elon musk is the GOAT.
+
+Create an opening stateme...
+✅ Response: Hian! Elon Musk ke? You wan tell me say that man wey dey play play with space rocket fit stand gidigba with Baba Trump? Abeg, shift one side jare! Trump na the original GOAT, period! E no need argument. 🤣
+
+==================================================
+[2025-11-28 12:16:25] Generating response
+Is opening: True
+Prompt: You are debating why Elon musk is the greatest of all time (GOAT) in General.
+Your opponent thinks Donal Trump is the GOAT.
+
+Create an opening stateme...
+✅ Response: Hian! You wan tell me say orange face dey share GOAT title with Elon? Baba, you dey joke abi you just wake up from sleep? Elon dey build future, Trump dey build wall... Think about am wella! 😎
+
+==================================================
+[2025-11-28 12:17:13] Generating response
+Is opening: True
+Prompt: You are debating why Elon musk is the greatest of all time (GOAT) in General.
+Your opponent thinks Donal Trump is the GOAT.
+
+Create an opening stateme...
+✅ Response: Heeey! So na Trump you carry come? 🤣 Omo, I dey weak! My guy, Elon dey build future for Mars, Trump dey build wall for… where again? Abeg, let's talk real GOAT things jare, leave the orange man for another day. 😉
+
+==================================================
+[2025-11-28 12:18:03] Generating response
+Is opening: False
+Prompt: You are in a debate defending why Donal Trump is the GOAT in General.
+Your opponent is defending Elon musk.
+
+Recent conversation:
+AI (Donal Trump): Hi...
+✅ Response: "You dey ask me if I sure? 🤣 My guy, Trump build wall, make America great AGAIN, and even own the whole damn Apprentice! Elon dey play with Tesla wey dey burn for road. Abeg, go siddon jare! 🚶‍♂️💨"
+
+==================================================
+[2025-11-28 12:20:14] Generating response
+Is opening: True
+Prompt: You are debating why elon musk is the greatest of all time (GOAT) in General.
+Your opponent thinks Donald trump is the GOAT.
+
+Create an opening statem...
+✅ Response: Hian! So na Trump you dey carry for head as GOAT? Abeg, park well joor! Elon dey build rocket dey go space, Trump dey build wall dey keep people out. E pain you say your choice no reach? 🤣
+
+==================================================
+[2025-11-28 12:21:20] Generating response
+Is opening: True
+Prompt: You are debating why Donald trump is the greatest of all time (GOAT) in General.
+Your opponent thinks elon musk is the GOAT.
+
+Create an opening statem...
+✅ Response: Heeey! So Elon Musk na GOAT? Ehn? My padi, you dey crack me up serious! Baba Trump dey build empires while Elon dey tweet memes. Case closed, next contestant! 🤣
+
+==================================================
+[2025-11-28 12:22:57] Generating response
+Is opening: True
+Prompt: You are debating why Donald trump is the greatest of all time (GOAT) in General.
+Your opponent thinks elon musk is the GOAT.
+
+Create an opening statem...
+✅ Response: Heeey! Elon Musk ke? My padi, you dey joke abi? You wan tell me say space man wey dey play play with rockets fit stand shoulder to shoulder with Baba Trump wey build wall and shake world? Abeg, shift one side make real GOAT shine! 🤣
+
+==================================================
+[2025-11-28 12:24:07] Generating response
+Is opening: True
+Prompt: You are debating why Donald trump is the greatest of all time (GOAT) in General.
+Your opponent thinks elon musk is the GOAT.
+
+Create an opening statem...
+✅ Response: Heeey! Elon Musk ke? GOAT? You sure say your head dey correct? My guy, Trump na bulldozer wey dey scatter everywhere with pure vibes and deals. Elon dey play space, Trump dey play chess for inside White House, come on nau! 🤣
+
+==================================================
+[2025-11-28 12:24:59] Generating response
+Is opening: True
+Prompt: You are debating why Donald trump is the greatest of all time (GOAT) in General.
+Your opponent thinks elon musk is the GOAT.
+
+Create an opening statem...
+✅ Response: Hian! Elon Musk ke? GOAT? Abeg, make una leave matter wey big pass una head. Trump dey chop life, build towers, even win election (make we no talk about wetin happen later 😜). My guy, dat one na real GOAT wey dey graze for platinum fields, no be dis wan wey dey play with rockets.
+
+==================================================
+[2025-11-28 12:58:11] Generating response
+Is opening: True
+Prompt: You are debating why Donald trump is the greatest of all time (GOAT) in General.
+Your opponent thinks Elon musk is the GOAT.
+
+Create an opening statem...
+✅ Response: Hian! Elon Musk you say? So, you dey try tell me say that man wey dey tweet about Dogecoin fit stand gidigba with Baba Trump wey build wall, collect taxes and still find time to dey wrestle with Twitter? Abeg, shift one side make I see road jare, this comparison dey pain my ear! 🤣
+
+==================================================
+[2025-11-28 13:00:23] Generating response
+Is opening: False
+Prompt: You are in a debate defending why Donald trump is the GOAT in General.
+Your opponent is defending Elon musk.
+
+Recent conversation:
+AI (Donald trump): ...
+
+==================================================
+[2025-11-28 13:02:45] Generating response
+Is opening: True
+Prompt: You are debating why Ronaldo is the greatest of all time (GOAT) in General.
+Your opponent thinks Messi  is the GOAT.
+
+Create an opening statement in N...
+✅ Response: Hian! Messi ke? You wan tell me say dat shorty wey dey shine only for Barcelona fit stand shoulder to shoulder with CR7? Abeg, comot for road! Ronaldo na machine, everywhere e go, e conquer. Case closed!
+
+==================================================
+[2025-11-28 13:04:37] Generating response
+Is opening: False
+Prompt: You are in a debate defending why Ronaldo is the GOAT in General.
+Your opponent is defending Messi .
+
+Recent conversation:
+AI (Ronaldo): Hian! Messi k...
+✅ Response: "You dey ask me if I sure? 😂 Bro, Ronaldo na 5-time Ballon d'Or winner, Champions League king, and international trophy getter! 🏆 Messi dey hide for PSG, Ronaldo dey score hat-tricks for fun. Abeg shift jor!🚶🏽‍♂️
+
+==================================================
+[2025-11-28 13:14:03] Generating response
+Is opening: True
+Prompt: You are debating why Messi is the greatest of all time (GOAT) in General.
+Your opponent thinks Maradona is the GOAT.
+
+Create an opening statement in N...
+
+==================================================
+[2025-11-28 13:18:23] Generating response
+Is opening: False
+Prompt: You are in a debate defending why Messi is the GOAT in General.
+Your opponent is defending Maradona.
+
+Recent conversation:
+AI (Messi): Abeg, network n...
+
+==================================================
+[2025-11-28 15:04:40] Generating response
+Is opening: True
+Prompt: You are debating why Maradona is the greatest of all time (GOAT) in General.
+Your opponent thinks Messi is the GOAT.
+
+Create an opening statement in N...
+✅ Response: "Hian! Messi? GOAT ke? Abeg, make una no dey carry play for here. Maradona na Baba for football, period! If Messi be GOAT, then I be Elon Musk. Case close! 🎤⬇️"
+
+==================================================
+[2025-11-28 15:05:47] Generating response
+Is opening: False
+Prompt: You are in a debate defending why Maradona is the GOAT in General.
+Your opponent is defending Messi.
+
+Recent conversation:
+AI (Maradona): "Hian! Messi...
+✅ Response: "You dey ask me "you sure"? 🤣 My guy, Maradona carry Napoli for head top win Serie A, lead Argentina win World Cup single-handedly. Messi dey hide behind Xavi and Iniesta dey shine, abeg shift jare! 🙄🤷‍♂️"
+
+==================================================
+[2025-11-28 15:09:02] Generating response
+Is opening: False
+Prompt: You are in a debate defending why Maradona is the GOAT in General.
+Your opponent is defending Messi.
+
+Recent conversation:
+AI (Maradona): "Hian! Messi...
+
+==================================================
+[2025-11-28 15:19:40] Generating response
+Is opening: True
+Prompt: You are debating why jeff bezos is the greatest of all time (GOAT) in General.
+Your opponent thinks messi is the GOAT.
+
+Create an opening statement in...
+✅ Response: Hian! So na Messi you wan put for GOAT position? My guy, abeg shift one side make I see road. Bezos dey build rockets dey go space, Messi dey kick ball for ground. Talk true, who be the real GOAT here? 😏
+
+==================================================
+[2025-11-28 15:21:04] Generating response
+Is opening: False
+Prompt: You are in a debate defending why jeff bezos is the GOAT in General.
+Your opponent is defending messi.
+
+Recent conversation:
+AI (jeff bezos): Hian! So...
+✅ Response: "Uh?" 🙄 So dat be all you get to say? Bezos dey create jobs, dey innovate like craze, dey deliver goods to your doorstep sharp sharp! Messi dey dribble ball... nice one, but where d innovation dey? 🚀💼😂
+
+==================================================
+[2025-11-28 15:22:55] Generating response
+Is opening: False
+Prompt: You are in a debate defending why jeff bezos is the GOAT in General.
+Your opponent is defending messi.
+
+Recent conversation:
+AI (jeff bezos): Hian! So...
+✅ Response: 8 Ballon d'Or? 🤣 Ehn ehn, and Bezos don create Amazon wey even your mama dey order from. Inspiring youths? Oga, Bezos dey inspire people to become billionaires, no be just score goals! 🚀💼 Abeg, shift!
+
+==================================================
+[2025-11-28 15:24:05] Generating response
+Is opening: False
+Prompt: You are in a debate defending why jeff bezos is the GOAT in General.
+Your opponent is defending messi.
+
+Recent conversation:
+AI (jeff bezos): Hian! So...
+✅ Response: Wetin be "wandas"? 🤣 Abeg, Bezos dey build future, Messi dey chase leather ball like pikin. We dey talk innovation, wealth creation, and customer satisfaction! 🚀 E no be by Ballon d'Or na! 🙄💼
