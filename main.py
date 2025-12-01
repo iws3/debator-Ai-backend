@@ -50,6 +50,7 @@ class StartDebateRequest(BaseModel):
     user_goat: str
     ai_goat: str
     domain: str = "General"
+    user_name: str = "Friend"  # Added user_name
 
 class DebateTurnRequest(BaseModel):
     debate_id: str
@@ -111,12 +112,24 @@ def generate_audio(text: str, voice: str = "Idera") -> Optional[str]:
                 return None
                 
     except Exception as e:
-        logger.error(f"Audio error: {e}")
+        logger.error(f"Audio error: {ege}")
         return None
+
+def generate_pollinations_text(prompt: str) -> str:
+    try:
+        # Pollinations text API: https://text.pollinations.ai/{prompt}
+        response = requests.get(f"https://text.pollinations.ai/{requests.utils.quote(prompt)}", timeout=30)
+        if response.status_code == 200:
+            return clean_text(response.text)
+        return "I dey try think but network no gree."
+    except Exception as e:
+        logger.error(f"Pollinations text error: {e}")
+        return "Error generating speech."
 
 def generate_gemini_response(prompt: str) -> str:
     if not client:
-        return "AI unavailable"
+        logger.warning("Gemini client not available, using Pollinations fallback")
+        return generate_pollinations_text(prompt)
     
     try:
         response = client.models.generate_content(
@@ -129,10 +142,12 @@ def generate_gemini_response(prompt: str) -> str:
         )
         if hasattr(response, 'text') and response.text:
             return clean_text(response.text)
-        return "I'm speechless!"
+        
+        logger.warning("Gemini returned no text, using Pollinations fallback")
+        return generate_pollinations_text(prompt)
     except Exception as e:
-        logger.error(f"Gemini error: {e}")
-        return "Error"
+        logger.error(f"Gemini error: {e}, falling back to Pollinations")
+        return generate_pollinations_text(prompt)
 
 def calculate_debate_scores(user_text: str, ai_text: str) -> tuple:
     """Smart scoring based on argument quality"""
@@ -176,12 +191,14 @@ async def root():
 async def start_debate(request: StartDebateRequest):
     debate_id = str(uuid.uuid4())
     
-    prompt = f"""You are {request.ai_goat} debating {request.user_goat}.
-Topic: Who is the greater GOAT?
+    # Updated prompt: User vs AI debating about GOATs
+    prompt = f"""You are debating with {request.user_name} about who is the greater GOAT between {request.user_goat} and {request.ai_goat}.
+{request.user_name} supports {request.user_goat}, and you support {request.ai_goat}.
+Greet {request.user_name} warmly and make your opening argument for why {request.ai_goat} is better than {request.user_goat}.
 Speak in Nigerian Pidgin English.
-Be funny, witty, playful.
-Short opening (max 2 sentences).
-No quotes, asterisks, markdown."""
+Be funny, witty, and playful.
+Keep it short (max 3 sentences).
+No quotes, asterisks, or markdown."""
     
     ai_text = generate_gemini_response(prompt)
     audio_url = generate_audio(ai_text)
@@ -191,6 +208,7 @@ No quotes, asterisks, markdown."""
         "user_goat": request.user_goat,
         "ai_goat": request.ai_goat,
         "domain": request.domain,
+        "user_name": request.user_name,
         "history": [{"speaker": "AI", "text": ai_text}],
         "user_score": 0,
         "ai_score": 0
@@ -226,11 +244,14 @@ async def debate_turn(request: DebateTurnRequest):
     debate = debates[request.debate_id]
     debate["history"].append({"speaker": "User", "text": request.user_text})
     
-    prompt = f"""You are {debate['ai_goat']} debating {debate['user_goat']}.
-History: {[f"{m['speaker']}: {m['text']}" for m in debate['history'][-5:]]}
-User said: "{request.user_text}"
-Respond in Nigerian Pidgin.
-Be funny, witty, roast them.
+    # Updated prompt: User vs AI debating about GOATs
+    prompt = f"""You are debating with a user about who is the greater GOAT.
+You support {debate['ai_goat']} and the user supports {debate['user_goat']}.
+Recent conversation: {[f"{m['speaker']}: {m['text']}" for m in debate['history'][-5:]]}
+User just said: "{request.user_text}"
+Respond defending {debate['ai_goat']} and counter their argument for {debate['user_goat']}.
+Speak in Nigerian Pidgin English.
+Be funny, witty, and engaging.
 Max 3 sentences. No quotes, asterisks, markdown."""
     
     ai_text = generate_gemini_response(prompt)
@@ -253,8 +274,12 @@ Max 3 sentences. No quotes, asterisks, markdown."""
 
 @app.post("/generate-goat-image")
 async def generate_goat_image(request: GenerateImageRequest):
-    encoded_name = request.goat_name.replace(" ", "%20")
-    return {"imageUrl": f"https://api.dicebear.com/7.x/avataaars/svg?seed={encoded_name}"}
+    # Using Pollinations.ai (Free, No API Key required)
+    prompt = f"epic portrait of {request.goat_name}, {request.domain} theme, hyperrealistic, dramatic lighting, highly detailed, 8k uhd"
+    encoded_prompt = requests.utils.quote(prompt)
+    seed = abs(hash(request.goat_name)) % 100000
+    image_url = f"https://image.pollinations.ai/prompt/{encoded_prompt}?width=800&height=800&seed={seed}&nologo=true"
+    return {"imageUrl": image_url}
 
 @app.post("/speech-to-text")
 async def speech_to_text(request: SpeechToTextRequest):
